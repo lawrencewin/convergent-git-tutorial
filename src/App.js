@@ -3,6 +3,7 @@ import { Route, BrowserRouter as Router, Switch, NavLink as Link } from "react-r
 
 import Home from "./Home"
 import Photos from "./Photos"
+import About from "./About"
 
 import "./App.scss"
 import { ReactComponent as Seal } from "./ut_seal.svg"
@@ -28,6 +29,7 @@ function App () {
 			<Switch>
 				<Route exact path="/"><Home /></Route>
 				<Route path="/photos"><Photos /></Route>
+				<Route path="/about"><About /></Route>
 			</Switch>
 			<footer className="footer">
 				This is a footer.<br />
