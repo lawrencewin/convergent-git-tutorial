@@ -10,8 +10,10 @@ function Photos () {
 			<div className="banner">
 				<div className="banner__content">
 					<div className="banner__header">
-						<div className="banner__title">The Forty Acres in Photos</div>
-						<div className="banner__desc">Anim ut culpa ut nulla excepteur occaecat incididunt adipisicing. In culpa aliquip pariatur enim culpa Lorem do proident commodo incididunt sunt non. Irure labore nisi cupidatat minim ex. Deserunt magna officia occaecat sint ea amet elit eu. Tempor quis do consectetur proident quis qui exercitation.</div>
+						<div className="banner__title">Deserunt est minim adipisicing </div>
+						<div className="banner__desc">
+							Irure qui pariatur officia commodo laborum. Sunt ea id non sunt officia adipisicing sint ullamco. Fugiat in deserunt elit elit ipsum et excepteur in laborum excepteur excepteur ex laboris enim. Quis ipsum culpa mollit ipsum veniam ex irure sit pariatur enim culpa. Dolor commodo aliqua dolore dolore ut aliquip cillum officia ad pariatur nulla aliquip. Est consequat do ea consectetur. Magna est ut sunt occaecat Lorem cillum deserunt reprehenderit ipsum mollit deserunt et.
+						</div>
 					</div>
 				</div>
 			</div>
