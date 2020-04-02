@@ -7,7 +7,7 @@ function Home () {
 			<div className="hero">
 				<div className="hero__text">
 					<div className="hero__title">Welcome to <br />
-						<span className="orange">The University of Texas at Austin</span>
+						<span className="blue">Zoom University</span>
 					</div>
 					<div className="hero__subtitle">What starts here changes the world.</div>
 				</div>
