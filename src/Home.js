@@ -14,7 +14,7 @@ function Home () {
 			</div>
 			<div className="banner">
 				<div className="banner__content">
-					<Link to="/" className="banner__link">View the forty acres in your own eyes.</Link>
+					<Link to="/photos" className="banner__link">View the forty acres in your own eyes.</Link>
 				</div>
 			</div>
 			<div className="body">
